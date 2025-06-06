@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import News from './news'
+import News from './News'
 import {BrowserRouter,Routes,Route} from 'react-router-dom'
 import Menu from './Menu'
 
